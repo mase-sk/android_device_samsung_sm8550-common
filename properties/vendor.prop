@@ -182,12 +182,12 @@ persist.backup.ntpServer=0.pool.ntp.org
 # Netflix
 ro.netflix.bsp_rev=Q8550-36432-1
 
-# PASR
-vendor.pasr.activemode.enabled=true
-vendor.power.pasr.enabled=true
-
 # Perf
+ro.vendor.perf-hal.ver=3.0
 ro.vendor.extension_library=libqti-perfd-client.so
+ro.vendor.perf.scroll_opt=true
+ro.vendor.qspm.enable=true
+vendor.perf.framepacing.enable=1
 
 # RCS
 persist.vendor.rcs.singlereg.feature=1
