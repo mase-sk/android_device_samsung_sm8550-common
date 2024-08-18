@@ -334,6 +334,7 @@ PRODUCT_PACKAGES += \
     FrameworksResCommon \
     FrameworksResTarget \
     SettingsProviderResCommon \
+    SettingsResCommon \
     SystemUIResCommon \
     TelecommResCommon \
     TelephonyResCommon \
